@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Package directories
+bin/
+build/
+out/
+
+# IDE files
+/.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+Thumbs.db
+desktop.ini
+
+# Maven and Gradle
+target/
+*.war
+*.ear
+
+# Java dependency folders
+lib/
+
+# Libraries
+*.jar
+
+# Others
+.settings/
