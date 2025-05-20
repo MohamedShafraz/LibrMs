@@ -57,7 +57,7 @@ LibrMS/
 ## Navigate to the Project Folder
 
 ```bash
-cd .\src\librms
+cd .\src
 ```
 
 ## Compile the Java Files
